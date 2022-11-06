@@ -17,4 +17,3 @@ public class main extends Student {
 				System.out.println(object2.firstName + " " + object2.lastName + " " + object2.index);
 			}
 		}
-
